@@ -1,0 +1,21 @@
+{
+	"name" : "Heroes Limiter",
+	"description" : "Limit the number of heroes in the game (Active-Total). 1st position means number of heroes that player can have active on map at the same time, 2nd position means number of heroes that player can have in total, including garrisoned. Game default settings are 8-16.",
+	"author" : "luk3Z",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "luk3z [at] duck.com",
+	"version" : "1.0",
+	"modType" : "Mechanics",
+	"language" : "english"
+
+	"compatibility" :
+	{
+		"min" : "1.2"
+	}
+
+	"changelog" :
+    {
+        "1.0"   : [ "Initial release" ]
+    },
+}
